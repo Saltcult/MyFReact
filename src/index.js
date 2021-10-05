@@ -5,7 +5,7 @@ import './index.css'
 const aSimpleElement = <h1>Hello all!</h1>;
 
 function StatelessComponent() {
-  return <h1>Hello all from stateless!</h1>;
+  return <h1>Hello all from stateless modified!</h1>;
 }
 
 class StatefulComponent extends React.Component {
