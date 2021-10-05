@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import './index.css'
 
 const aSimpleElement = <h1>Hello all!</h1>;
 
